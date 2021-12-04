@@ -15,6 +15,7 @@ if (!fs.existsSync(thumbdir)){
     fs.mkdirSync(thumbdir);
 }
 
+
 const opt = {
     nocase: true
 }
